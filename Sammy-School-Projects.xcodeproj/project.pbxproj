@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		688135D5236239CD00D25589 /* Sammy-School-Projects */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Sammy-School-Projects"; sourceTree = BUILT_PRODUCTS_DIR; };
 		688135D8236239CD00D25589 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		68C8D32F2362469F00C6307C /* .gitingnore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitingnore; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		688135CC236239CD00D25589 = {
 			isa = PBXGroup;
 			children = (
+				68C8D32E2362465B00C6307C /* Git */,
 				688135D7236239CD00D25589 /* Semester-1 */,
 				688135D6236239CD00D25589 /* Products */,
 			);
@@ -60,6 +62,14 @@
 				688135D8236239CD00D25589 /* main.cpp */,
 			);
 			path = "Semester-1";
+			sourceTree = "<group>";
+		};
+		68C8D32E2362465B00C6307C /* Git */ = {
+			isa = PBXGroup;
+			children = (
+				68C8D32F2362469F00C6307C /* .gitingnore */,
+			);
+			path = Git;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
