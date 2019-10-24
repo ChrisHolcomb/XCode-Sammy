@@ -41,7 +41,7 @@
 		688135CC236239CD00D25589 = {
 			isa = PBXGroup;
 			children = (
-				688135D7236239CD00D25589 /* Sammy-School-Projects */,
+				688135D7236239CD00D25589 /* Semester-1 */,
 				688135D6236239CD00D25589 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		688135D7236239CD00D25589 /* Sammy-School-Projects */ = {
+		688135D7236239CD00D25589 /* Semester-1 */ = {
 			isa = PBXGroup;
 			children = (
 				688135D8236239CD00D25589 /* main.cpp */,
 			);
-			path = "Sammy-School-Projects";
+			path = "Semester-1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
